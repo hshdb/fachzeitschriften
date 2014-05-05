@@ -18,6 +18,6 @@ Trotz starker Tendenz zum OA steht hinter fast der Hälfte aller Zeitschriften e
 Einige Verlage scheinen den Sprung zum OA-Verlag nicht zu schaffen und stellten das Erscheinen ihrer Zeitung ein. Andere scheinen jedoch einen guten Weg zu fahren, mit dem Modell der Veröffentlichung nach einer Sperrfrist. Hierbei wird der Artikel als erstes, kostenpflichtigen Nutzern zur Verfügung gestellt, als print- oder e-journal. Erst nach einer Sperrfrist zwischen bspw. 3-12 Monaten wird das Dokument auf dem Server frei geschaltet und der Allgemeinheit angeboten. Verlagen bietet sich hier eine wirkliche Alternative um sich dem „offenen Zugang“ nicht zu verschließen. Sich dem Markt neu zu präsentieren, Trends erkennen, sich auf Fächer zu spezialisieren, Zugänge trotz Abo-modell fördern und Literatur fachmännisch verbreiten. Der OA Bewegung wird die Sperrfrist nicht akzeptieren, jedoch scheint es  für die Verlage vorerst der einzige Weg zu sein um mithalten zu können.
 Es besteht an ausreichendes Angebot an Fachzeitschriften im deutschsprachigen Raum und Leser können ihren Bedarf vollends abdecken. Für aktuelle und fachmännische Literatur aus dem Bereich Bibliothek (Museum, Archiv) brauchen Interessierte auf jeden Fall nicht zwingend zahlen. Wenn es das ist was wir wirklich wollen.
 
-[Quellen](https://www.penflip.com/Stud_Bengt/quellenverzeichnis?invite=mkQq3oxa)
+[Quellen](https://www.penflip.com/Stud_Bengt/quellenverzeichnis.git)
 
 [^1]: http://open-access.net, geprüft am 03.05.2014
