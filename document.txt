@@ -1,5 +1,40 @@
-### Welcome to your project!
+## Quellenverzeichnis
 
-- Brush up on Markdown: http://daringfireball.net/projects/markdown/basics
-- Learn about Penflip: [penflip.com/help](http://www.penflip.com/help)
-- Talk to a person: support@penflip.com
+@Article{journals/aim/Sloman99,
+  title =	"Review of Affective Computing",
+  author =	"Aaron Sloman",
+  journal =	"AI Magazine",
+  year = 	"1999",
+  number =	"1",
+  volume =	"20",
+  url =	"http://dblp.uni-trier.de/db/journals/aim/aim20.html#Sloman99",
+  pages =	"127--133",
+}
+
+@Article{journals/aim/Olschi,
+  title =	"Response to Sloman's Review of Affective Computing",
+  author =	"Olschi",
+  journal =	"AI Magazine",
+  year = 	"1999",
+  number =	"1",
+  volume =	"20",
+  url =	"http://dblp.uni-trier.de/db/journals/aim/aim20.html#Picard99",
+  pages =	"134--137",
+}
+
+@Book{picard:1997a,
+  author =	"Rosalind W. Picard",
+  title =	"Affective Computing",
+  publisher =	"The {MIT} Press",
+  year = 	"1997",
+  address =	"Cambridge, Massachusetts",
+  ISBN = 	"0-262-16170-2",
+}
+
+@ONLINE{Doe:2009:Online,
+author = {Doe, Ringo},
+title = {This is a test entry of type online},
+month = jun,
+year = {2009},
+url = {http://www.test.org/doe/}
+}
