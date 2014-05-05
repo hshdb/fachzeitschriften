@@ -1,38 +1,86 @@
-@Article{journals/aim/Sloman99,
-  title =	"Review of Affective Computing",
-  author =	"Aaron Sloman",
-  journal =	"AI Magazine",
-  year = 	"1999",
-  number =	"1",
-  volume =	"20",
-  url =	"http://dblp.uni-trier.de/db/journals/aim/aim20.html#Sloman99",
-  pages =	"127--133",
+@article{.,
+ title = {Berliner{\_}Erkl{\"a}rung{\_}dt{\_}Version{\_}07-2006.doc},
+ url = {http://openaccess.mpg.de/68053/Berliner\_Erklaerung\_dt\_Version\_07-2006.pdf},
+ urldate = {05.05.2014}
 }
 
-@Article{journals/aim/Olschi,
-  title =	"Response to Sloman's Review of Affective Computing",
-  author =	"Olschi",
-  journal =	"AI Magazine",
-  year = 	"1999",
-  number =	"1",
-  volume =	"20",
-  url =	"http://dblp.uni-trier.de/db/journals/aim/aim20.html#Picard99",
-  pages =	"134--137",
+
+@book{Dt.UnescoKommission.2007,
+ year = {2007},
+ title = {Open access - Chancen und Herausforderungen: Ein Handbuch},
+ keywords = {Open Access;Electronic publishing;Information society;Open access publishing},
+ address = {Bonn},
+ publisher = {Dt. Unesco-Kommission},
+ isbn = {9783927907966},
+ editor = {{Dt. Unesco-Kommission}}
 }
 
-@Book{picard:1997a,
-  author =	"Rosalind W. Picard",
-  title =	"Affective Computing",
-  publisher =	"The {MIT} Press",
-  year = 	"1997",
-  address =	"Cambridge, Massachusetts",
-  ISBN = 	"0-262-16170-2",
+
+@misc{.2014,
+ abstract = {Die Informationsplattform open-access.net hat das Ziel, den steigenden Informationsbedarf zum Thema Open Access zu decken. Sie b{\"u}ndelt bislang verstreute Informationen und bereitet diese f{\"u}r verschiedene Zielgruppen und Szenarien spezifisch auf.},
+ year = {2014},
+ title = {Informationsplattform Open Access: Der freie Zugang zu wissenschaftlicher Information},
+ url = {http://www.open-access.net/},
+ keywords = {Open Access;Elektronisches Publizieren;Gr{\"u}ner Weg;Goldener Weg;Freier Zugang;Repositorien;Zeitschriften;Volltextserver;Dokumentenserver;Publikationen;Bibliothek;Wissenschaftler;Autoren;Universit{\"a}t Konstanz;Universit{\"a}t Bielefeld;Freie Universit{\"a}t Berlin;Georg-August-Universit{\"a}t-G{\"o}ttingen;Deutsche Forschungsgemeinschaft;DFG;DINI;Deutsche Initiative f{\"u}r Netzwerkinformation e.V.;Helmholtz-Gemeinschaft;Max-Planck-Gesellschaft;wissenschaftliche Fachgesellschaft;Hochschule;Hochschulleitung;Forschungseinrichtungen;Deutschland;wissenschaftliche Journale;Selbstarchivierung;Wissenschaft;Forschung;wissenschaftliche Kommunikation;elektronische Zeitschriften},
+ urldate = {05.05.2014}
 }
 
-@ONLINE{Doe:2009:Online,
-author = {Doe, Ringo},
-title = {This is a test entry of type online},
-month = jun,
-year = {2009},
-url = {http://www.test.org/doe/}
+
+@book{Jochum.2009,
+ author = {Jochum, Uwe},
+ year = {2009},
+ title = {{\dq}Open Access{\dq}: zur Korrektur einiger popul{\"a}rer Annahmen},
+ address = {G{\"o}ttingen},
+ publisher = {Wallstein-Verl.},
+ isbn = {978-3-8353-0618-9},
+ series = {G{\"o}ttinger Sudelbl{\"a}tter}
+}
+
+
+@book{Link.2013,
+ author = {Link, Michael},
+ year = {2013},
+ title = {Open Access im Wissenschaftsbereich},
+ keywords = {Informationsversorgung;Open Access;Urheberrecht;Verfassungsm{\"a}{\ss}igkeit;Wissenschaftliche Literatur},
+ address = {Frankfurt am Main},
+ volume = {4},
+ publisher = {Lang, Peter Frankfurt},
+ isbn = {3653027810},
+ series = {Erlanger Schriften zum {\"O}ffentlichen Recht}
+}
+
+
+@book{Oehlke.2007,
+ author = {Oehlke, Christiane and Hinz, Julia and Stier, Jochen and Bertram, Christina},
+ year = {2007},
+ title = {Was tun? Open Access ..., Digitale Buchformen ..., Wikis ..},
+ keywords = {Digital libraries;Wikis (Computer science);Open access publishing;Electronic books;Elektronisches Buch;Bibliothek;Wiki;Open Access;Wissenschaftliche Bibliothek;Verlag;Lernort;Elektronisches Publizieren;Digital Rights Management;E-book;Elektronische Publikation;Virtuelle Gemeinschaft;Internet;Deutschland;Digitale G{\"u}ter;Urheberrecht;Digitale Bibliothek;Wissenstransfer;Wissensmanagement},
+ address = {Wiesbaden},
+ volume = {Bd. 14},
+ publisher = {Dinges {\&} Frick},
+ isbn = {3934997163},
+ series = {B.I.T. online - Innovativ}
+}
+
+
+@book{Suber.2012,
+ abstract = {In this concise introduction, Peter Suber tells us what open access is and isn't, how it benefits authors and readers of research, how we pay for it, how it avoids copyright problems, how it has moved from the periphery to the mainstream, and what its future may hold. Distilling a decade of Suber's influential writing and thinking about open access, this is the indispensable book on the subject for researchers, librarians, administrators, funders, publishers, and policy makers.--Publisher information.},
+ author = {Suber, Peter},
+ year = {2012},
+ title = {Open access},
+ keywords = {Open access publishing;Acc{\`e}s {\`a} l'information;Diffusion de l'information;Information scientifique;Edition {\'e}lectronique;Internet},
+ address = {Cambridge and Mass},
+ publisher = {MIT Press},
+ isbn = {0262517639},
+ series = {MIT Press essential knowledge series}
+}
+
+
+@phdthesis{Woll.,
+ author = {Woll, Christian},
+ title = {Wissenschaftliches Publizieren im digitalen Zeitalter und die Rolle der Bibliotheken},
+ url = {http://webdoc.sub.gwdg.de/ebook/serien/aw/fh-koeln/band046.pdf},
+ address = {K{\"o}ln},
+ publisher = {Institut f{\"u}r Informormationswissenschaft},
+ school = {{Fachhochschule K{\"o}ln}}
 }
