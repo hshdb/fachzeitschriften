@@ -1,5 +1,3 @@
-## Quellenverzeichnis
-
 @Article{journals/aim/Sloman99,
   title =	"Review of Affective Computing",
   author =	"Aaron Sloman",
