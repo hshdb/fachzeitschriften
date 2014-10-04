@@ -1,5 +1,5 @@
-% OPEN ACCESS bei bibliothekarischen Fachzeitschriften
-% Bengt Olschewski 
+## OPEN ACCESS bei bibliothekarischen Fachzeitschriften
+## Bengt Olschewski 
 
 Für das Wahlpflichtfach "Open Access/ Open Archive" im Studiengang Informationsmanagement, an der [Hochschule Hannover](http://www.hs-hannover.de), wird die deutschsprachige Zeitschriftenlandschaft im Bereich Bibliothekswesen genauer untersucht. Grundlage hierfür ist eine [Tabelle](https://docs.google.com/spreadsheet/ccc?key=0Aro_DAmC_PbndFItMmpFUjVYUnljTk5FZHYzQW5yOWc#gid=0) aus dem Jahr 2012, welche 45 Fachzeitschriften umfasst. Die Tabelle wird aktualisiert und unter neuen Gesichtspunkten betrachtet. 
 Die Zeitschriften sind teilweise sehr unterschiedlich in Erscheinungsweise und Auflage. Es werden sogar einige Repositories beleuchtet. Der größte Unterschied ist im Bereich Open Access (kurz: OA) zu beobachten, welcher nachfolgend genauer betrachtet wird. Etwa 80% der Zeitschrifteninhalte werden kostenfrei zur Verfügung gestellt, 24% davon nach einer Sperrfrist. Das ist ein enormer Anstieg gegenüber 2012. Man kann schneller auf Inhalte zugreifen, die Nutzung für weiterführende Forschung wird vereinfacht; und das bei gleichbleibender Qualitätskontrolle durch das Peer-Review-Verfahren.  Das Publizieren mit OA bietet Grund zu der Annahme, dass sogar neue, genauere Qualitätskriterien entstehen werden. 
